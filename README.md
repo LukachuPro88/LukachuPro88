@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukachuPro88
 - 👀 I’m interested in coding and football
-- 🌱 I’m currently learning the basics of C++
+- 🌱 I’m currently creating python libraries and my main focus is Passworder
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im only 12
 
