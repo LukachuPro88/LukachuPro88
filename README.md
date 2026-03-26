@@ -12,10 +12,12 @@ I was born in 2013 and I learn new things very quickly.
 - **JavaScript** – Pretty good, not as strong as Python
 - **Java** – Comfortable, still improving
 - **Assembly** – Only know the basics
+- **Rust** - Comfortable with Rust.
 
 # Public Projects
 - [**Passworder**](https://github.com/LukachuPro88/Passworder) – A Python library with functions and helpers for password-related tasks
 - [**SolOS**](https://github.com/LukachuPro88/SolOS) – A very lightweight and small open-source operating system
+- [**Virta**](https://github.com/LukachuPro88/Virta) - A Lightweight and open-souce shell.
 
 # Private Projects
 - **Hospital System** – A mock hospital system made in Java
