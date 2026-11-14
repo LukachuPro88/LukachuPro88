@@ -16,8 +16,6 @@ I was born in 2013 and I learn new things very quickly.
 
 # Public Projects
 - [**Passworder**](https://github.com/LukachuPro88/Passworder) – A Python library with functions and helpers for password-related tasks
-- [**SolOS**](https://github.com/LukachuPro88/SolOS) – A very lightweight and small open-source operating system
-- [**Virta**](https://github.com/LukachuPro88/Virta) - A Lightweight and open-souce shell.
 - [**Findit**](https://github.com/LukachuPro88/Findit) - A local fillesystem search engine.
 
 # Private Projects
